@@ -12,7 +12,7 @@ Thank you for stopping by my page! Feel free to connect with me on LinkedIn belo
 ![My Skills](https://skillicons.dev/icons?i=java,)
 
 ## Where you can find me:
-<a href= "[https://www.linkedin.com/in/daniel](https://www.linkedin.com/in/danielmalloy02/)" /> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+<a href= "https://www.linkedin.com/in/danielmalloy02/" /> <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
 <!--
 **CzarSkittleZ/CzarSkittleZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
