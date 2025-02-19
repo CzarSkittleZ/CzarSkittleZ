@@ -1,5 +1,7 @@
 ## Hi there I'm Daniel Atom Malloy 👋
 
+<img src = "https://github.com/CzarSkittleZ/CzarSkittleZ/warhammer.jpg" height="500" align="left"/>
+
 ### Here is a little bit about me:
 I earned my Bachelor of Science in Computer Science and my Master’s in Business Administration at High Point University in North Carolina. Although I completed my education in North Carolina, I currently reside in Florida. This has allowed me to connect with companies in my area, which ultimately led me to Palo Alto. As of February 18, 2025, I am proud to have achieved a full-time position at Palo Alto as a Tech Consultant.
 
